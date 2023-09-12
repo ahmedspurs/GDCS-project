@@ -1,0 +1,24 @@
+{
+    "development": {
+      "username": "root",
+      "password": "",
+      "database": "GDSC-project",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "test": {
+      "username": "ahmed",
+      "password": "",
+      "database": "GDSC-project",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "ahmed",
+      "password": "ahmed123121Aa@",
+      "database": "GDSC-project",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
+  
